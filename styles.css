@@ -1,0 +1,137 @@
+h1{
+    font-size: 55px;
+}
+p{
+    font-size: 20px;
+    color: rgb(53, 52, 52);
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.orange{
+    color: orange;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient( orange, tomato);
+    padding: 2.5% 7%;
+    color: white;
+    border-radius: 5px;
+    font-weight: 500;
+    margin-top: 50px;
+    
+}
+.btn{
+    margin-bottom: 5%;
+    margin-top: 10%;
+}
+.stay{
+    border-left: 3px solid;
+    border-image-slice: 1;
+    border-image: orange;
+    padding-left: 2%;
+}
+.sec1{
+    display: flex;
+}
+.box1{
+    width: 50%;
+    padding-left: 7%;
+    margin-bottom: 2%;
+    padding-right: 7%;
+}
+.box1 img{
+    width: 70%;
+    padding-left: 2%;
+}
+.yellow{
+    color: tomato;
+}
+h2{
+    color: midnightblue;
+    font-size: 45px;
+    font-weight: 800;
+}
+.mid{
+    text-align: center;
+
+}
+.sec2{
+    display: flex;
+    justify-content: center;
+}
+#illus1{
+    width: 15%;
+    
+    background-color: yellow;
+    border-radius: 10px;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 4%;
+    border-radius: 15px;
+    
+}
+#illus1 img{
+    width: 30%;
+}
+#illus2{
+    width: 15%;
+    
+    background-color: pink;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 4%;
+    border-radius: 15px;
+}
+#illus2 img{
+    width: 30%;
+}
+#illus3{
+    width: 15%;
+    
+    background-color: skyblue;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 4%;
+    border-radius: 15px;
+}
+#illus3 img{
+    width: 30%;
+}
+h3{
+    font-size: 35px;
+}
+.sec3{
+    display: flex;
+    margin-top: 6%;
+}
+.sec4{
+    display: flex;
+    margin-top: 8%;
+}
+.foot{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.footcolor{
+    color: palevioletred;
+}
+h4{
+    font-size: 35px;
+    padding-top: 1%;
+}
+.foot p{
+    padding-bottom: 3%;
+    font-size: 15px;
+    color: white;
+}
+.footmission{
+    margin-top: 6%;
+}
